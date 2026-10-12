@@ -1,3 +1,2 @@
 hello，
-linux
-and git!
+linux and git!
